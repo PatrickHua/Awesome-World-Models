@@ -8,6 +8,8 @@ This repository is a collection of research papers on World Models. It aims to p
 
     *Jessy Lin, Yuqing Du, Olivia Watkins, Danijar Hafner, Pieter Abbeel, Dan Klein, Anca Dragan.*
 
+2. **Unifying (Machine) Vision via Counterfactual World Modeling.** arxiv 2023. [paper](https://arxiv.org/pdf/2306.01828.pdf)
+    *Bear, Daniel M., Kevin Feigelis, Honglin Chen, Wanhee Lee, Rahul Venkatesh, Klemen Kotar, Alex Durango, and Daniel LK Yamins.*
 
 
 
