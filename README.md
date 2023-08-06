@@ -1,5 +1,5 @@
 # Awesome-World-Models
-This repository is a collection of research papers on World Models. It includes seminal works, recent advancements, and influential papers, aiming to provide a useful resource for those interested in this field.
+This repository is a collection of research papers on World Models. It aims to provide a useful resource for those interested in this field.
 
 >World Models are a class of models in the field of artificial intelligence that aim to create a simplified, internal representation of the external world. These models are designed to predict the future state of the environment based on current observations and past experiences, allowing an agent to make informed decisions.
 
