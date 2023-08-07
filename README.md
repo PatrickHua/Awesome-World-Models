@@ -17,8 +17,14 @@ This repository is a collection of research papers on World Models. It aims to p
 
 
 ## Video Model Papers
-1. **MAGVIT: Masked Generative Video Transformer.** CVPR 2023. [paper](https://arxiv.org/pdf/2212.05199.pdf)
+1. **MAGVIT: Masked Generative Video Transformer.** CVPR 2023. [paper](https://arxiv.org/pdf/2212.05199.pdf) [demo](https://magvit.cs.cmu.edu/) [code](https://github.com/google-research/magvit)
 
    *Yu, Lijun, Yong Cheng, Kihyuk Sohn, José Lezama, Han Zhang, Huiwen Chang, Alexander G. Hauptmann et al.*
 
-TODO
+   >3d VQ + MaskGIT = 37fps on v100 sampling
+   
+
+3. **Diffusion Models for Video Prediction and Infilling.** TMLR 2022. [paper](https://arxiv.org/pdf/2206.07696.pdf)   [code](https://github.com/Tobi-r9/RaMViD)
+
+   *Tobias Höppe, Arash Mehrjou, Stefan Bauer, Didrik Nielsen, Andrea Dittadi*
+   
