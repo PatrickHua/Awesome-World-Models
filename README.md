@@ -20,7 +20,7 @@ This repository is a collection of research papers on World Models. It aims to p
 
 4. **A Control-Centric Benchmark for Video Prediction.** ICLR 2023. [paper](https://arxiv.org/pdf/2304.13723.pdf)
 
-    *Tian, Stephen, Chelsea Finn, and Jiajun Wu. "" arXiv preprint arXiv:2304.13723 (2023).
+    *Tian, Stephen, Chelsea Finn, and Jiajun Wu.*
 
 
 ## Video Model Papers
