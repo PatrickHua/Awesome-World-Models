@@ -14,6 +14,9 @@ This repository is a collection of research papers on World Models. It aims to p
 
     *Bear, Daniel M., Kevin Feigelis, Honglin Chen, Wanhee Lee, Rahul Venkatesh, Klemen Kotar, Alex Durango, and Daniel LK Yamins.*
 
+3. **World Models** arxiv 2018. [paper](https://arxiv.org/pdf/1803.10122.pdf) [demo](https://worldmodels.github.io/)
+
+    *Ha, David, and Jürgen Schmidhuber.*
 
 
 ## Video Model Papers
