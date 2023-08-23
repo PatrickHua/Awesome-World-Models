@@ -22,6 +22,12 @@ This repository is a collection of research papers on World Models. It aims to p
 
     *Tian, Stephen, Chelsea Finn, and Jiajun Wu.*
 
+5. **Transformers are sample efficient world models.** ICLR 2023. [paper](https://arxiv.org/pdf/2209.00588.pdf)
+    *Micheli, Vincent, Eloi Alonso, and François Fleuret.*
+
+6. **Towards Efficient World Models** ICML 2023 Workshops. [paper](https://openreview.net/pdf?id=o8IDoZggqO)
+    *Eloi Alonso, Vincent Micheli, and François Fleuret.*
+   
 
 ## Video Model Papers
 1. **MAGVIT: Masked Generative Video Transformer.** CVPR 2023. [paper](https://arxiv.org/pdf/2212.05199.pdf) [demo](https://magvit.cs.cmu.edu/) [code](https://github.com/google-research/magvit)
@@ -35,7 +41,20 @@ This repository is a collection of research papers on World Models. It aims to p
 
    *Tobias Höppe, Arash Mehrjou, Stefan Bauer, Didrik Nielsen, Andrea Dittadi*
 
-3. **Unsupervised Learning for Physical Interaction through Video Prediction** Neurips 2016 [paper](https://proceedings.neurips.cc/paper_files/paper/2016/file/d9d4f495e875a2e075a1a4a6e1b9770f-Paper.pdf)
+3. **Unsupervised Learning for Physical Interaction through Video Prediction** Neurips 2016. [paper](https://proceedings.neurips.cc/paper_files/paper/2016/file/d9d4f495e875a2e075a1a4a6e1b9770f-Paper.pdf)
 
    *Finn, Chelsea, Ian Goodfellow, and Sergey Levine*
+
+## Action Model Papers
+1. **Decision Transformer: Reinforcement Learning via Sequence Modeling** Neurips 2021. [paper](https://arxiv.org/pdf/2106.01345.pdf)
+
+   *Chen, Lili, Kevin Lu, Aravind Rajeswaran, Kimin Lee, Aditya Grover, Misha Laskin, Pieter Abbeel, Aravind Srinivas, and Igor Mordatch.*
+
+
+2. **Diffusion Policy: Visuomotor Policy Learning via Action Diffusion** RSS 2023. [paper](https://arxiv.org/pdf/2303.04137.pdf) [demo](https://diffusion-policy.cs.columbia.edu/)
+   *Chi, Cheng and Feng, Siyuan and Du, Yilun and Xu, Zhenjia and Cousineau, Eric and Burchfiel, Benjamin and Song, Shuran*
+
+
+
+
 
