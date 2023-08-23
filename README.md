@@ -43,7 +43,11 @@ This repository is a collection of research papers on World Models. It aims to p
 
 3. **Unsupervised Learning for Physical Interaction through Video Prediction** Neurips 2016. [paper](https://proceedings.neurips.cc/paper_files/paper/2016/file/d9d4f495e875a2e075a1a4a6e1b9770f-Paper.pdf)
 
-   *Finn, Chelsea, Ian Goodfellow, and Sergey Levine*
+   *Finn, Chelsea, Ian Goodfellow, and Sergey Levine.*
+
+4. **Unsupervised Learning of Video Representations using Lstms.** ICML 2015. [paper](https://arxiv.org/pdf/1502.04681v3.pdf)
+   *Srivastava, Nitish, Elman Mansimov, and Ruslan Salakhudinov.*
+
 
 ## Action Model Papers
 1. **Decision Transformer: Reinforcement Learning via Sequence Modeling** Neurips 2021. [paper](https://arxiv.org/pdf/2106.01345.pdf)
