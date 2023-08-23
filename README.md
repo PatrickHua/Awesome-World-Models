@@ -34,4 +34,8 @@ This repository is a collection of research papers on World Models. It aims to p
 2. **Diffusion Models for Video Prediction and Infilling.** TMLR 2022. [paper](https://arxiv.org/pdf/2206.07696.pdf)   [code](https://github.com/Tobi-r9/RaMViD)
 
    *Tobias Höppe, Arash Mehrjou, Stefan Bauer, Didrik Nielsen, Andrea Dittadi*
-   
+
+3. **Unsupervised Learning for Physical Interaction through Video Prediction** Neurips 2016 [paper](https://proceedings.neurips.cc/paper_files/paper/2016/file/d9d4f495e875a2e075a1a4a6e1b9770f-Paper.pdf)
+
+   *Finn, Chelsea, Ian Goodfellow, and Sergey Levine*
+
