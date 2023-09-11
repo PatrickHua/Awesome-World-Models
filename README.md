@@ -27,8 +27,10 @@ This repository is a collection of research papers on World Models. It aims to p
 
 6. **Towards Efficient World Models** ICML 2023 Workshops. [paper](https://openreview.net/pdf?id=o8IDoZggqO)
     *Eloi Alonso, Vincent Micheli, and François Fleuret.*
-   
 
+7. **Learning latent dynamics for planning from pixels.** PMLR 2019. [paper](https://arxiv.org/pdf/1811.04551.pdf)
+   *Hafner, Danijar, Timothy Lillicrap, Ian Fischer, Ruben Villegas, David Ha, Honglak Lee, and James Davidson.*
+   
 ## Video Model Papers
 1. **MAGVIT: Masked Generative Video Transformer.** CVPR 2023. [paper](https://arxiv.org/pdf/2212.05199.pdf) [demo](https://magvit.cs.cmu.edu/) [code](https://github.com/google-research/magvit)
 
